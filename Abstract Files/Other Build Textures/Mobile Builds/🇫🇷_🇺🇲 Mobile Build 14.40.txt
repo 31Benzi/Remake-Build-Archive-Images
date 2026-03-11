@@ -1,0 +1,5 @@
+﻿For put the DLL into the Reboot Launcher.
+Go to Settings, then Authentication Patcher, click the small file icon and select the DLL “14.40 MobileBuild”.
+
+
+Finally, launch your game.**.
